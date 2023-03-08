@@ -43,6 +43,7 @@ bazel-testlogs
 .ijwb
 .env*
 *.log
+*.iml
 *.env
 service-*-secure.yaml
 *-service-*-secure.yaml
