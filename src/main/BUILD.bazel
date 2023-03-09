@@ -1,5 +1,5 @@
 java_binary(
     name = "mybinary",
     srcs = ["Test.java"],
-    main_class = "Test",
+    main_class = "main.Test",
 )
