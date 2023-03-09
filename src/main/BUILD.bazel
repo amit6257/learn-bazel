@@ -2,4 +2,5 @@ java_binary(
     name = "mybinary",
     srcs = ["Test.java"],
     main_class = "main.Test",
+    deps=["//src/mylib:mylibtarget"]
 )
